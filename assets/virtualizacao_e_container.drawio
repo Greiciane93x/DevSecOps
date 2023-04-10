@@ -1,0 +1,205 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T14:26:07.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="E3x4DCSjGeR7T1BCvdTk" version="21.1.2" type="github">
+  <diagram name="Página-1" id="jKAN_4xwL9hKnfSjliuN">
+    <mxGraphModel dx="1191" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SblSH_98xNAXlvt-BYqG-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="120" width="385" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry width="290" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-9" value="Hypervisor" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="210" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-12" value="SO(GUEST)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="250" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-13" value="HARDWARE" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="310" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-14" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="150" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-4" value="SO(GUEST)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-14">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-8" value="SO(GUEST)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-14">
+          <mxGeometry x="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-15" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="90" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-3" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-15">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-7" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-15">
+          <mxGeometry x="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-16" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="20" y="30" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-2" value="PHP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-16">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-6" value="PHP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-16">
+          <mxGeometry x="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-28" value="5gb RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-16">
+          <mxGeometry x="130" y="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-17" value="5gb RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-16">
+          <mxGeometry y="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-29" value="1GB" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="330" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SblSH_98xNAXlvt-BYqG-34" source="SblSH_98xNAXlvt-BYqG-1" target="SblSH_98xNAXlvt-BYqG-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-31" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="325" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-33" value="VHDX 50GB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-34">
+          <mxGeometry x="325" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="650" width="460" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry width="460" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-46" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="30" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-48" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-46">
+          <mxGeometry width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-36" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-48">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-43" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-48">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-44" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-48">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-49" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="150" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-50" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-49">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-51" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-49">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-52" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-49">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-53" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="140" y="30" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-54" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-53">
+          <mxGeometry width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-55" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-54">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-56" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-54">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-57" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-54">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-58" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="140" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-59" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="140" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-60" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="140" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-81" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="270" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-77" value="Docker Engine" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-81">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-78" value="SO (GUEST)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-81">
+          <mxGeometry y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-86" value="Hypervisor" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="350" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-87" value="Sistema Operacional&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="390" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-88" value="HARDWARE" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="40" y="430" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-92" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-93">
+          <mxGeometry x="240" y="30" width="180" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-61" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-62" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-61">
+          <mxGeometry width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-63" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-62">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-64" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-62">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-65" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-62">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-66" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-67" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-68" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-69" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry x="100" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-70" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-69">
+          <mxGeometry width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-71" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-70">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-72" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-70">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-73" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-70">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-74" value="Python" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry x="100" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-75" value="Java" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry x="100" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-76" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry x="100" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-83" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="SblSH_98xNAXlvt-BYqG-92">
+          <mxGeometry y="240" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-84" value="Docker Engine" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-83">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SblSH_98xNAXlvt-BYqG-85" value="SO (GUEST)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SblSH_98xNAXlvt-BYqG-83">
+          <mxGeometry y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
